@@ -1,0 +1,18 @@
+:root {
+  --color-text: #2d2d2d;
+  --color-background: #ffffff;
+  --color-card-background: #f3f3f3;
+  --color-icon: #000000;
+  --font-family: "Apple SD Gothic Neo", sans-serif;
+  --font-size-body: 17px;
+  --font-size-small-title: 20px;
+  --font-size-card-title: 27px;
+  --font-size-section-title: 32px;
+  --font-size-hero-title: 68px;
+  --line-height-body: 1.5882;
+  --line-height-title: 1.5;
+  --space-section: 42px;
+  --space-content: 24px;
+  --space-navigation: 42px;
+  --space-card: 24px;
+}
